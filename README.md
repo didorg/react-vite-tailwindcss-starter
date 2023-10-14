@@ -35,7 +35,8 @@ Kickstart your next project with this starter template, equipped with React, Tai
 Feel free to submit issues and enhancement requests, or open pull requests to make this template even better.
 
 ## License
-MIT License
+[MIT License](LICENSE.md)
+
 
 
 
